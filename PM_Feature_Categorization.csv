@@ -1,0 +1,10 @@
+Feature,Type,Role,Data_Type,Unique_Values,Missing,Statistics,Sample_Values
+r,Numerical,Feature,int64,245,0,"Min: 0.00, Max: 512.00, Mean: 137.82, Std: 100.60","69, 120, 120"
+rw,Numerical,Feature,int64,399,0,"Min: 1.00, Max: 7217.00, Mean: 185.45, Std: 278.50","71, 102, 101"
+rx,Numerical,Feature,int64,118,0,"Min: 0.00, Max: 169.00, Mean: 50.84, Std: 35.18","26, 50, 50"
+rwc,Numerical,Feature,int64,119,0,"Min: 0.00, Max: 142.00, Mean: 43.79, Std: 29.98","28, 29, 29"
+rwx,Numerical,Feature,int64,90,0,"Min: 0.00, Max: 263.00, Mean: 16.06, Std: 21.74","5, 6, 6"
+rwxc,Numerical,Feature,int64,29,0,"Min: 0.00, Max: 37.00, Mean: 0.39, Std: 2.69","0, 0, 0"
+category,Categorical,Feature,object,10,0,Categories: 10,"Ransomware, Ransomware, Ransomware"
+family,Categorical,Feature,object,622,0,Categories: 622,"Zeppelin, Zeppelin, Zeppelin"
+label,Target Variable,Classification Label,object,2,0,Categories: 2,"Ransomware, Ransomware, Ransomware"
